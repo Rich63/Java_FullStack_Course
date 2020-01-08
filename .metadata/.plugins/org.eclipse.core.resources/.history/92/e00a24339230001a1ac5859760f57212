@@ -1,0 +1,13 @@
+
+public class Floating {
+
+	public static void main(String[] args) {
+		int intValue = 9;
+		float floatValue = 9;
+		
+		System.out.println("intValue = " + intValue);
+		System.out.println("floatValue = " + floatValue);
+
+	}
+
+}

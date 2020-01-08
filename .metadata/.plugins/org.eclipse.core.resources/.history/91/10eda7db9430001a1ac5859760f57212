@@ -1,0 +1,11 @@
+
+public class BooleanChar {
+
+	public static void main(String[] args) {
+		boolean booleanValue = false;
+		
+		System.out.println(booleanValue);
+
+	}
+
+}

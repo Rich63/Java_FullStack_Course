@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;S06L06&apos; to &apos;S03L07-BigDecimal&apos;" description="Rename resource &apos;S06L06&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/S06L06" name="S03L07-BigDecimal" stamp="1578328109289" updateReferences="true"/>
+</session>

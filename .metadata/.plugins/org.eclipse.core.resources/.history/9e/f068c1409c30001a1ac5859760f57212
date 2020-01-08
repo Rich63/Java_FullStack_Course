@@ -1,0 +1,12 @@
+import java.math.BigDecimal;
+
+public class BigDecimalPart {
+
+	public static void main(String[] args) {
+		double x = 1.05, y = 2.55;
+		BigDecimal bd1 = new BigDecimal(1.05); 
+
+		System.out.println(x+y);
+	}
+
+}
