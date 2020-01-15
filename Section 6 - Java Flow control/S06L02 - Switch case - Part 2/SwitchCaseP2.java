@@ -23,11 +23,6 @@ public class SwitchCaseP2 {
         break;
     }
 
-
-
-
-
-
   }
 
 }

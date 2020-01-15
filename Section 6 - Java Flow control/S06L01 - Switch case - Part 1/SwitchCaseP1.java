@@ -30,11 +30,6 @@ public class SwitchCaseP1 {
         break;
     }
 
-
-
-
-
-
   }
 
 }
