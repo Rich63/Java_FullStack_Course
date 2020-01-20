@@ -28,13 +28,13 @@ public class App {
     // @Override in Bike.java the output will look as is defined in the @Override
     bike.run();
     // this will normally output "Running Vehicle" but because of the toString()
-    // @Override in Bike.java the output will look as is defined in the @Override "Running Bike"
+    // @Override in Bike.java the output will look as is defined in the @Override "Running Bike" + the sysout(toString()) in the run method
 
-    // Car car = new Car("Steering","Music System","airConditioner","Fridge","Entertainment System","Diesel",4,5,40,"LED");
-    // System.out.println(car);
+    Car car = new Car("Steering","Music System","airConditioner","Fridge","Entertainment System","Diesel",4,5,40,"LED");
+    System.out.println(car);
 
-    // Truck truck = new Truck("Steering","Music System","airConditioner",2,"Diesel",16,3,240,"Halogen");
-    // System.out.println(truck);
+    Truck truck = new Truck("Steering","Music System","airConditioner",2,"Diesel",16,3,240,"Halogen");
+    System.out.println(truck);
 
   }
 }
