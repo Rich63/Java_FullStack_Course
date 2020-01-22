@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+<fullyQualifiedTypeName name="org.studyeasy.species.Fish"/>
+<fullyQualifiedTypeName name="org.studyeasy.parent.Animal"/>
+<fullyQualifiedTypeName name="org.studyeasy.species.Bird"/>
+<fullyQualifiedTypeName name="javax.annotation.processing.Processor"/>
+<fullyQualifiedTypeName name="org.studyeasy.laptop.components.GraphicsCard"/>
+<fullyQualifiedTypeName name="org.studyeasy.phone.Phone"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>

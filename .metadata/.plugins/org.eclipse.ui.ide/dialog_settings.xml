@@ -19,6 +19,12 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Code\Java\Udemy\Full Stack Java developer - Java + JSP + Restful WS + Spring\Section 9 - Object Oriented Programming Concepts\S09L22 - Benefits of Polymorphism"/>
+			<item value="D:\Code\Java\Udemy\Full Stack Java developer - Java + JSP + Restful WS + Spring\Section 9 - Object Oriented Programming Concepts\S09L20"/>
+			<item value="D:\Code\Java\Udemy\Full Stack Java developer - Java + JSP + Restful WS + Spring\Section 9 - Object Oriented Programming Concepts\S09L18 - Encapsulation"/>
+			<item value="D:\Code\Java\Udemy\Full Stack Java developer - Java + JSP + Restful WS + Spring\Section 9 - Object Oriented Programming Concepts\S09L15-16-17 - Composition"/>
+			<item value="D:\Code\Java\Udemy\Full Stack Java developer - Java + JSP + Restful WS + Spring\Section 9 - Object Oriented Programming Concepts\S09L15 - Composition"/>
+			<item value="D:\Code\Java\Udemy\Full Stack Java developer - Java + JSP + Restful WS + Spring\Section 9 - Object Oriented Programming Concepts\S09L14 - Exercise"/>
 			<item value="D:\Code\Java\Udemy\Full Stack Java developer - Java + JSP + Restful WS + Spring\S09L14 - Exercise"/>
 			<item value="D:\Code\Java\Udemy\Full Stack Java developer - Java + JSP + Restful WS + Spring"/>
 		</list>
