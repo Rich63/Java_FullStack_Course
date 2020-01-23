@@ -19,6 +19,12 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Code\Java\Udemy\Full Stack Java developer - Java + JSP + Restful WS + Spring\Section 10 - Core concepts\S10L07 - Anonymous object"/>
+			<item value="D:\Code\Java\Udemy\Full Stack Java developer - Java + JSP + Restful WS + Spring\Section 10 - Core concepts\S10L06 - Local inner class"/>
+			<item value="D:\Code\Java\Udemy\Full Stack Java developer - Java + JSP + Restful WS + Spring\Section 10 - Core concepts\S10L04 - Inner classes"/>
+			<item value="D:\Code\Java\Udemy\Full Stack Java developer - Java + JSP + Restful WS + Spring\Section 10 - Core concepts\S10L03 - multiple inheritance using interfaces"/>
+			<item value="D:\Code\Java\Udemy\Full Stack Java developer - Java + JSP + Restful WS + Spring\Section 10 - Core concepts\S10L02 - Abstract Classes"/>
+			<item value="D:\Code\Java\Udemy\Full Stack Java developer - Java + JSP + Restful WS + Spring\Section 10 - Core concepts\S10L01 - Interfaces"/>
 			<item value="D:\Code\Java\Udemy\Full Stack Java developer - Java + JSP + Restful WS + Spring\Section 9 - Object Oriented Programming Concepts\S09L22 - Benefits of Polymorphism"/>
 			<item value="D:\Code\Java\Udemy\Full Stack Java developer - Java + JSP + Restful WS + Spring\Section 9 - Object Oriented Programming Concepts\S09L20"/>
 			<item value="D:\Code\Java\Udemy\Full Stack Java developer - Java + JSP + Restful WS + Spring\Section 9 - Object Oriented Programming Concepts\S09L18 - Encapsulation"/>
