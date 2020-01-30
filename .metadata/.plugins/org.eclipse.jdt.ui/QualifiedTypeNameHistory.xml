@@ -9,4 +9,9 @@
 <fullyQualifiedTypeName name="org.studyeasy.phone.Phone"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.studyeasy.phone.OnePlus5"/>
+<fullyQualifiedTypeName name="org.studyeasy.person.Person"/>
+<fullyQualifiedTypeName name="org.studyeasy.person.Vegan"/>
+<fullyQualifiedTypeName name="org.studyeasy.person.NonVegan"/>
+<fullyQualifiedTypeName name="org.studyeasy.shop.Door"/>
 </qualifiedTypeNameHistroy>
