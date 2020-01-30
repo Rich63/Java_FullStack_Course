@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe3b1586-7c1b-4978-9a09-37a617f9acb6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L17 - Packages/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L17 - Packages/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L17 - Packages/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L17 - Packages/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L17 - Packages/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L17 - Packages/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L17 - Packages/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L17 - Packages/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L17 - Packages/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L17 - Packages/S10L17 - Packages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L17 - Packages/src/org/studyeasy/blog/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L17 - Packages/src/org/studyeasy/platform/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L19 - Scope/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L19 - Scope/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L19 - Scope/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L19 - Scope/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L19 - Scope/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L19 - Scope/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L19 - Scope/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L19 - Scope/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L19 - Scope/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L19 - Scope/S10L19 - Scope.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L20 - Access modifier/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L20 - Access modifier/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L20 - Access modifier/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L20 - Access modifier/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L20 - Access modifier/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L20 - Access modifier/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L20 - Access modifier/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L20 - Access modifier/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L20 - Access modifier/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L20 - Access modifier/AccessModifiers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L20 - Access modifier/S10L20 - Access modifier.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L20 - Access modifier/src/org/studyeasy/child/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L20 - Access modifier/src/org/studyeasy/parent/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L23 - Exception Handling/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L23 - Exception Handling/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L23 - Exception Handling/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L23 - Exception Handling/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L23 - Exception Handling/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L23 - Exception Handling/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L23 - Exception Handling/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L23 - Exception Handling/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L23 - Exception Handling/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L23 - Exception Handling/S10L23 - Exception Handling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L24 - Exception handling multiple catch blocks/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L24 - Exception handling multiple catch blocks/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L24 - Exception handling multiple catch blocks/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L24 - Exception handling multiple catch blocks/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L24 - Exception handling multiple catch blocks/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L24 - Exception handling multiple catch blocks/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L24 - Exception handling multiple catch blocks/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L24 - Exception handling multiple catch blocks/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L24 - Exception handling multiple catch blocks/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L24 - Exception handling multiple catch blocks/S10L24 - Exception handling multiple catch blocks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L25 - Exception handling multiple catch blocks  2 - Copy/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L25 - Exception handling multiple catch blocks  2 - Copy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L25 - Exception handling multiple catch blocks  2 - Copy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L25 - Exception handling multiple catch blocks  2 - Copy/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L25 - Exception handling multiple catch blocks  2 - Copy/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L25 - Exception handling multiple catch blocks  2 - Copy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L25 - Exception handling multiple catch blocks  2 - Copy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L25 - Exception handling multiple catch blocks  2 - Copy/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L25 - Exception handling multiple catch blocks  2 - Copy/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L25 - Exception handling multiple catch blocks  2 - Copy/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L25 - Exception handling multiple catch blocks  2 - Copy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L25 - Exception handling multiple catch blocks  2 - Copy/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L25 - Exception handling multiple catch blocks  2 - Copy/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L25 - Exception handling multiple catch blocks  2 - Copy/ClassHiargie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L25 - Exception handling multiple catch blocks  2 - Copy/S10L24 - Exception handling multiple catch blocks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L25 - Exception handling multiple catch blocks  2 - Copy/src/org/studyeasy/S10L25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L26 - Exception handling multiple catch blocks  3/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L26 - Exception handling multiple catch blocks  3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L26 - Exception handling multiple catch blocks  3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L26 - Exception handling multiple catch blocks  3/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L26 - Exception handling multiple catch blocks  3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L26 - Exception handling multiple catch blocks  3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L26 - Exception handling multiple catch blocks  3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L26 - Exception handling multiple catch blocks  3/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L26 - Exception handling multiple catch blocks  3/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L26 - Exception handling multiple catch blocks  3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L26 - Exception handling multiple catch blocks  3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L26 - Exception handling multiple catch blocks  3/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L26 - Exception handling multiple catch blocks  3/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L26 - Exception handling multiple catch blocks  3/ClassHiargie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L26 - Exception handling multiple catch blocks  3/S10L24 - Exception handling multiple catch blocks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L26 - Exception handling multiple catch blocks  3/src/org/studyeasy/S10L26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L27 - Throw and Throws/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L27 - Throw and Throws/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L27 - Throw and Throws/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L27 - Throw and Throws/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L27 - Throw and Throws/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L27 - Throw and Throws/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L27 - Throw and Throws/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L27 - Throw and Throws/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L27 - Throw and Throws/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L27 - Throw and Throws/S10L27 - Throw and Throws.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L28 - User defined exception/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L28 - User defined exception/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L28 - User defined exception/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L28 - User defined exception/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L28 - User defined exception/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L28 - User defined exception/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L28 - User defined exception/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L28 - User defined exception/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L28 - User defined exception/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L28 - User defined exception/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L28 - User defined exception/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L28 - User defined exception/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L28 - User defined exception/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L28 - User defined exception/S10L27 - Throw and Throws.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L28 - User defined exception/src/org/studyeasy/S10L28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L28 - User defined exception/src/org/studyeasy/UserDefinedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L29 - Checked and unchecked exceptions/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L29 - Checked and unchecked exceptions/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L29 - Checked and unchecked exceptions/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L29 - Checked and unchecked exceptions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L29 - Checked and unchecked exceptions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L29 - Checked and unchecked exceptions/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L29 - Checked and unchecked exceptions/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L29 - Checked and unchecked exceptions/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L29 - Checked and unchecked exceptions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L29 - Checked and unchecked exceptions/S10L29 - Checked and unchecked exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L29 - Checked and unchecked exceptions/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L30 - Enum/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L30 - Enum/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L30 - Enum/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L30 - Enum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L30 - Enum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L30 - Enum/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L30 - Enum/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L30 - Enum/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L30 - Enum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L30 - Enum/S10L30 - Enum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L30 - Enum/src/org/studyeasy/Learning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L31 - Strings/S10L31 - Strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L32 - Difference between String literal and String Object/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L32 - Difference between String literal and String Object/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L32 - Difference between String literal and String Object/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L32 - Difference between String literal and String Object/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L32 - Difference between String literal and String Object/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L32 - Difference between String literal and String Object/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L32 - Difference between String literal and String Object/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L32 - Difference between String literal and String Object/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L32 - Difference between String literal and String Object/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L32 - Difference between String literal and String Object/S10L32 - Difference between String literal and String Object.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L32 - Difference between String literal and String Object/String Methods.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L32 - Difference between String literal and String Object/pic1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L32 - Difference between String literal and String Object/pic2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 10 - Core concepts/Template/S10L06 - Local inner class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/.idea/Section 11 - Array overview.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L02 -  How to initialize array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L02 -  How to initialize array/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L02 -  How to initialize array/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L02 -  How to initialize array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L02 -  How to initialize array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L02 -  How to initialize array/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L02 -  How to initialize array/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L02 -  How to initialize array/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L02 -  How to initialize array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L02 -  How to initialize array/S11L02 -  How to initialize array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L03 - Foreach loop/S11L03 - Foreach loop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L04 - Methods - Call by value and reference/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L04 - Methods - Call by value and reference/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L04 - Methods - Call by value and reference/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L04 - Methods - Call by value and reference/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L04 - Methods - Call by value and reference/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L04 - Methods - Call by value and reference/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L04 - Methods - Call by value and reference/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L04 - Methods - Call by value and reference/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L04 - Methods - Call by value and reference/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section 11 - Array overview/S11L04 - Methods - Call by value and reference/S11L04 - Methods - Call by value and reference.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S12L02 - ArrayList/S12L02 - ArrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S12L03 - ArrayList Part 2/S12L02 - ArrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S12L04 - Autoboxing and unboxing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S12L04 - Autoboxing and unboxing/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S12L04 - Autoboxing and unboxing/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S12L04 - Autoboxing and unboxing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S12L04 - Autoboxing and unboxing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S12L04 - Autoboxing and unboxing/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S12L04 - Autoboxing and unboxing/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S12L04 - Autoboxing and unboxing/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S12L04 - Autoboxing and unboxing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S12L04 - Autoboxing and unboxing/Primitive-vs-wrapper-classes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S12L04 - Autoboxing and unboxing/S12L04 - Autoboxing and unboxing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S12L04 - Autoboxing and unboxing/src/org/studyeasy/Clean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S12L06 - Stack methods/S12L05 - ArrayList and Stack overview.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemplateProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/studyeasy/S12L07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TemplateProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TemplateProject/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TemplateProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TemplateProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TemplateProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TemplateProject/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TemplateProject/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TemplateProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TemplateProject/TemplateProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/131997055.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/1909880518.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/2027763745.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/206889338.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/227714418.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/2350488526.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/2388212571.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/2642649259.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/2815013388.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/307898623.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/3149747983.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/3344360607.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/341263954.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/3416338475.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/3946058474.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/500797501.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/908566163.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/946554455.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section 10 - Core concepts/S10L01 - Interfaces/bin/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1X1yxeVnVhYg51FUGy8F2ELLInJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../S12L08 - LinkedList" />
+  </component>
+  <component name="RunManager">
+    <configuration name="S12L07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.studyeasy.S12L07" />
+      <module name="TemplateProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.studyeasy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.S12L07" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe3b1586-7c1b-4978-9a09-37a617f9acb6" name="Default Changelist" comment="" />
+      <created>1580228142160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580228142160</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="738" y="261" key="FileChooserDialogImpl" timestamp="1580287876622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="738" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1580287876622" />
+    <state width="1858" height="278" key="GridCell.Tab.0.bottom" timestamp="1580287876639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1858" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1580287876639" />
+    <state width="1858" height="278" key="GridCell.Tab.0.center" timestamp="1580287876639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1858" height="278" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1580287876639" />
+    <state width="1858" height="278" key="GridCell.Tab.0.left" timestamp="1580287876639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1858" height="278" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1580287876639" />
+    <state width="1858" height="278" key="GridCell.Tab.0.right" timestamp="1580287876639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1858" height="278" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1580287876639" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1580287641277">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1580287641277" />
+    <state x="341" y="244" key="new project wizard" timestamp="1580287833293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="341" y="244" key="new project wizard/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1580287833293" />
+  </component>
+</project>
